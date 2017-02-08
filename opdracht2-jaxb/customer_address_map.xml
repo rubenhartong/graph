@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer>
+    <addressMap>
+        <entry>
+            <key>shipping</key>
+            <value>
+                <city>Blaricum</city>
+                <street>torenlaan 11</street>
+                <zip>1261ZM</zip>
+            </value>
+        </entry>
+        <entry>
+            <key>billing</key>
+            <value>
+                <city>Blaricum</city>
+                <street>kerkstraat 1</street>
+                <zip>1261ZL</zip>
+            </value>
+        </entry>
+    </addressMap>
+    <dateOfBirth>05-06-1990</dateOfBirth>
+    <name>Ruben Hartong</name>
+</customer>
